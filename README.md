@@ -285,6 +285,3 @@ https://github.com/Amit3151
 * Craft CMS 5 compatible
 * Consent accept / decline / reset
 * Twig helpers for frontend control
-
-```
-
